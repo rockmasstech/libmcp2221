@@ -12,7 +12,7 @@ CFLAGS= \
 	-Wstrict-prototypes \
 	-Wunused-result \
 	-O3 \
-	-std=c99 \
+	-std=gnu99 \
 	-fmessage-length=0 \
 	-fPIC \
 	-I./
